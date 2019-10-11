@@ -1,0 +1,23 @@
+{
+    "cohort": 3,
+    "start_date": "2019/07/29",
+    "stop_date": "2019/10/09",
+    "students": [
+        {
+            "name": "Student 1",
+            "age": 27
+        },
+        {
+            "name": "Student 2",
+            "age": 44
+        },
+        {
+            "name": "Student 3",
+            "age": 21
+        },
+        {
+            "name": "Student 4",
+            "age": 34
+        }
+    ]
+}

@@ -1,0 +1,2 @@
+Writing a new line of text to my text file
+Writing a new line of text to my text file (append)
